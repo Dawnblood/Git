@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 7423507232835036273}
   m_Layer: 0
   m_Name: RedPrefab
-  m_TagString: Untagged
+  m_TagString: Red
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -106,3 +106,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 93f6cd6cf1f6546f6833f9ca629e8f6e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rend: {fileID: 8877435825310392486}
